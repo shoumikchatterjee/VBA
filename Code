@@ -1,0 +1,16 @@
+InputBox("Comment") 'Displays Input Box containing Comment
+
+MsgBox("Comment") 'Displays Message Box containing Comment
+
+Dim name As String
+name = "Shoumik"
+
+Dim example(3) 'Declares an array called example of size 3
+
+Function getProduct(num 1 As Double, num2 As Double)  'Function to return product of two numbers
+  getProduct = num1 * num2
+End Function
+
+Sub getSum(num 1 As Double, num2 As Double)  'Sub Procedure to find (but NOT return) sum of two numbers
+  num1 + num2
+End Sub
