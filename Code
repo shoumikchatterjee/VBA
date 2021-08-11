@@ -1,6 +1,6 @@
 InputBox("Comment") 'Displays Input Box containing Comment
 
-MsgBox("Comment") 'Displays Message Box containing Comment
+MsgBox("Comment")  'Displays Message Box containing Comment
 
 Dim name As String 'Declares variable as a string
 name = "Shoumik"  'assigns name a string value
